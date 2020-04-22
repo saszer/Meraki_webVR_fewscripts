@@ -14,7 +14,7 @@ The Camera dynamic induces some very interesting results when immersed in VR, ju
 
 In Detail : Behind the Curtains >> 
 
-About M E R A K I : https://design.embracingearth.space/2018/12/13/meraki-1-o/
+[Playlink>] About M E R A K I : https://design.embracingearth.space/2018/12/13/meraki-1-o/
 
 Concept,Background and Research Doc – [Virtual Reality_3D Binaural Audio and Perception Research Project Proposal](https://design.embracingearth.space/wp-content/uploads/2020/04/s3738367_Sahaj_Garg_Virtual-Reality-Binaural-Audio-and-Perception_AT3_Research-Project-Proposalfixer.pdf)
 

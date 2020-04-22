@@ -5,6 +5,9 @@ This repo is mainly targetted towards the fundamental script of a unique camera 
 About M E R A K I : https://design.embracingearth.space/2018/12/13/meraki-1-o/
 
 In Detail : Behind the Curtains >> 
+
 Concept,Background and Research Doc – [Virtual Reality_Binaural Audio and Perception Research Project Proposal](https://design.embracingearth.space/wp-content/uploads/2020/04/s3738367_Sahaj_Garg_Virtual-Reality-Binaural-Audio-and-Perception_AT3_Research-Project-Proposalfixer.pdf)
+
 Background(ver1)– [Sahaj_Garg_VR Mindfulness_ Research Methods Literature Review](https://design.embracingearth.space/s3738367_sahaj_garg_vrmindfulness_research_methods_at2_literaturereview1/)
+
 DEV Log Doc – [Meraki Dev log](https://design.embracingearth.space/wp-content/uploads/2020/04/s3738367_Sahaj_Garg_Studio01_folio02_Meraki_.pdf)

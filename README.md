@@ -1,6 +1,6 @@
 # Meraki 1.0
 
-This repo is mainly targetted towards the fundamental script [Uppermgmt.cs](https://github.com/saszer/Meraki_webVR_fewscripts/blob/master/Uppermgmt.cs) of a unique camera dynamics in relation to VR headsetmovement in meraki webvr experience. Containing some helpful insight on if one wishes to alter the headset movement integration - through Mozilla WebXR Unity Plugin. 
+This repo is mainly targetted towards the fundamental script ([Uppermgmt.cs](https://github.com/saszer/Meraki_webVR_fewscripts/blob/master/Uppermgmt.cs)) of a unique camera dynamics in relation to VR headsetmovement in meraki webvr experience. Containing some helpful insight on if one wishes to alter the headset movement integration - through Mozilla WebXR Unity Plugin. 
 
 In Detail : Behind the Curtains >> 
 

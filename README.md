@@ -7,4 +7,4 @@ About M E R A K I : https://design.embracingearth.space/2018/12/13/meraki-1-o/
 In Detail : Behind the Curtains >> 
 Concept and Research Doc – Virtual Reality_Binaural Audio and Perception Research Project Proposal 
 Background – Sahaj_Garg_VR Mindfulness_ Research Methods Literature Review
-DEV Log Doc – s3738367 SahajGarg Meraki Dev log 
+DEV Log Doc – Meraki Dev log 

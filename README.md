@@ -4,7 +4,8 @@ This repo is mainly targetted towards the fundamental script ([Uppermgmt.cs](htt
 ![smallsnipfrom research doc](https://github.com/saszer/Meraki_webVR_fewscripts/blob/master/snip.PNG)
 
 
-The Camera dynamic induces some very interesting results when immersed in VR, juxtaposing the idea of inner reality - switching between normal and this camera dynamic when immersed plays a unique trick on our body and how we
+The Camera dynamic induces some very interesting results when immersed in VR, juxtaposing the idea of inner reality - switching between normal and this camera dynamic when immersed seems to further dazzle the players(presented in expo(RMITMAGI2018) and alongside peers) - trick mind and body in unique ways. 
+
 In Detail : Behind the Curtains >> 
 
 About M E R A K I : https://design.embracingearth.space/2018/12/13/meraki-1-o/

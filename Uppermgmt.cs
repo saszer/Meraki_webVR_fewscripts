@@ -14,6 +14,8 @@ instead of rotating normally(from a point) as it should, the camera rotates arou
 
 Original Script is from Mozilla WebVR https://github.com/MozillaReality/unity-webxr-export/tree/master/Assets/WebXR/Scripts
 This Script is modified WebVRCamera.cs and will not work independently but needs to be combined with the repo.
+In Place WebVRCamera.cs /// To Note, the effect wont be visible if testing inside Unity environment as scripts calls through webxrapi 
+and will only work perfectly in builds. Unity test environment seems to override the api when testing with headset inside Unity.
 */
 public class Uppermgmt : MonoBehaviour
 {

@@ -1,4 +1,4 @@
-# meraki 1.0
+# Meraki 1.0
 
 This repo is mainly targetted towards the fundamental script of a unique camera dynamics in relation to VR headsetmovement in meraki webvr experience. Containing some helpful insight on if one wishes to alter the headset movement integration - through Mozilla WebXR Unity Plugin. 
 

@@ -3,7 +3,7 @@
 
 Meraki (Meh-rah-Kee) is an interactive VR experience that focuses on the relationship between inner and outer reality. The internal pulse of the heartbeat is juxtaposed with the vast expanse of the cosmos. Every star has its own voice that sings a chorus against the beat of the heart. Explore the intricate complexities of the human heart and make a wish on a shooting star.
 
-Built On webVR, Meraki works on most VR HMD's, and is also playable on computer if no HMD is available (not recommended tho). 
+Featuring a cosmic meditative space, filled with 3D Audio on stars and galaxies ---- Built On webVR, Meraki works on most VR HMD's, and is also playable on computer if no HMD is available (not recommended tho). 
 
 This repo is mainly targetted towards the fundamental script ([Uppermgmt.cs](https://github.com/saszer/Meraki_webVR_fewscripts/blob/master/Uppermgmt.cs)) of a unique camera dynamics in relation to VR headset movement seen in meraki webvr experience. Containing some helpful insight on if one wishes to alter the headset movement integration - through Mozilla WebXR Unity Plugin. 
 ![smallsnipfrom research doc](https://github.com/saszer/Meraki_webVR_fewscripts/blob/master/snip.PNG)
